@@ -1,0 +1,25 @@
+# Compiled Java class files
+*.class
+
+# Compiled Java source files
+*.jar
+
+# IDE-specific files and directories
+/.idea/
+/.vscode/
+/.project
+/.classpath
+
+# Build output directories
+/target/
+/bin/
+/out/
+
+# Temporary files
+*.log
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
